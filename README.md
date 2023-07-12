@@ -7,3 +7,4 @@ Task: "Provide analysis to help the marketing team understand how to increase cu
 
 Problem Statement: "What marketing retention campaigns could we implement to help reduce customer churn?"
 
+NOTE: 'nbformat' python package is required to run some parts of the code
